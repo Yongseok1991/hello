@@ -3,4 +3,4 @@ LINE_2 on remote
 LINE_3 on remote
 LINE_4 on local
 LINE_5 on local
-LINE_6 on remot apple
+LINE_6 on remote apple
